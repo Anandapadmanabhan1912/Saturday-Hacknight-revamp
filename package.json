@@ -12,7 +12,7 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.5",
-    "firebase": "^10.5.1"  // Updated this line
+    "firebase": "^10.5.1" 
   },
   "devDependencies": {
     "postcss": "^8",
